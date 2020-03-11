@@ -1,0 +1,21 @@
+{
+	"usuarios": [{
+			"nome": "Matheus",
+			"data_nasc": "12/12/1992",
+			"grupos": ["Admin", "Moderador", "Usuario"],
+			"email": "matheus@exemplo.com"
+		},
+		{
+			"nome": "Vinicius",
+			"data_nasc": "07/08/1989",
+			"grupos": ["Usuario"],
+			"email": "vinicius@exemplo.com"
+		},
+		{
+			"nome": "Lucas",
+			"data_nasc": "14/07/1994",
+			"grupos": ["Moderador", "Usuario"],
+			"email": "lucas@exemplo.com"
+		}
+	]
+}
