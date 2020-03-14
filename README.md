@@ -1,6 +1,6 @@
 # Exercícios de Python
 
-> Para resolver os exercícios crie uma branch com seu nome e *comite* seus arquivos
+> Para resolver os exercícios crie uma branch com seu nome e *comite* seus arquivos. Não esuqeça de criar um virtualenv python caso deseje instalar pacotes adcionais.
 
 
 ## Listas
