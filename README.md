@@ -9,8 +9,6 @@ python caso deseje instalar pacotes adcionais.
 
 ## Python
 
-### Listas
-
 **Exercício 1** - Pergunte ao usuário por uma string e imprima se a string é um [palindromo](https://pt.wikipedia.org/wiki/Pal%C3%ADndromo) ou não.
 
 **Exercício 2** - Dada a lista `a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]`, escreva um código de apenas uma linha que crie uma nova lista `b` apenas com os números pares.
@@ -29,3 +27,9 @@ Grupos: Admin
         Usuario
 E-mail: matheus@exemplo.com
 ```
+
+**Exercício 5** Escreva um programa que inverte a ordem das palavras em uma frase. Por exemplo, se a entrada for 'Meu nome é Matheus', a saída deve ser 'Matheus é nome Meu'.
+
+**Exercício 6** Escreva um programa que recebe uma lista ordenada de números inteiros, um número N e retorna se o número está na lista ou não.
+
+**Exercício 7** Escreva um gerador de senhas. O programa recebe um número N e retorna uma senha alfanumérica aleatória com tamanho N. Para senhas fortes, utilize números, letras maúsculas e minúsculas e caracteres especiais.
