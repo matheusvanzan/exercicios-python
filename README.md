@@ -1,9 +1,19 @@
-# Exercícios de Python
+# Exercícios do curso Python4Teens
 
-> Para resolver os exercícios crie uma branch com seu nome e *comite* seus arquivos. Não esuqeça de criar um virtualenv python caso deseje instalar pacotes adcionais.
+## Git
 
+> Para resolver os exercícios crie uma branch com seu nome e *comite* seus arquivos. Não esuqeça de criar um virtualenv 
+python caso deseje instalar pacotes adcionais.
 
-## Listas
+### Remote
+
+O nome do repositório mudou, entçao precisamos mudar o `remote` no repositório git local.
+
+https://help.github.com/en/github/using-git/changing-a-remotes-url
+
+## Python
+
+### Listas
 
 **Exercício 1** - Pergunte ao usuário por uma string e imprima se a string é um [palindromo](https://pt.wikipedia.org/wiki/Pal%C3%ADndromo) ou não.
 
