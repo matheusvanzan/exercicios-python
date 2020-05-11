@@ -28,8 +28,8 @@ Grupos: Admin
 E-mail: matheus@exemplo.com
 ```
 
-**Exercício 5** Escreva um programa que inverte a ordem das palavras em uma frase. Por exemplo, se a entrada for 'Meu nome é Matheus', a saída deve ser 'Matheus é nome Meu'.
+**Exercício 5** - Escreva um programa que inverte a ordem das palavras em uma frase. Por exemplo, se a entrada for 'Meu nome é Matheus', a saída deve ser 'Matheus é nome Meu'.
 
-**Exercício 6** Escreva um programa que recebe uma lista ordenada de números inteiros, um número N e retorna se o número está na lista ou não.
+**Exercício 6** - Escreva um programa que recebe uma lista ordenada de números inteiros, um número N e retorna se o número está na lista ou não.
 
-**Exercício 7** Escreva um gerador de senhas. O programa recebe um número N e retorna uma senha alfanumérica aleatória com tamanho N. Para senhas fortes, utilize números, letras maúsculas e minúsculas e caracteres especiais.
+**Exercício 7** - Escreva um gerador de senhas. O programa recebe um número N e retorna uma senha alfanumérica aleatória com tamanho N. Para senhas fortes, utilize números, letras maúsculas e minúsculas e caracteres especiais.
