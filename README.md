@@ -2,14 +2,10 @@
 
 ## Git
 
-> Para resolver os exercícios crie uma branch com seu nome e *comite* seus arquivos. Não esuqeça de criar um virtualenv 
+- Para resolver os exercícios crie uma branch com seu nome e *comite* seus arquivos. Não esuqeça de criar um virtualenv 
 python caso deseje instalar pacotes adcionais.
 
-### Remote
-
-O nome do repositório mudou, entçao precisamos mudar o `remote` no repositório git local.
-
-https://help.github.com/en/github/using-git/changing-a-remotes-url
+- O nome do repositório mudou, então precisamos mudar o `remote` no repositório git local. Veja como [aqui](https://help.github.com/en/github/using-git/changing-a-remotes-url).
 
 ## Python
 
