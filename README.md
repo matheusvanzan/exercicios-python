@@ -1,4 +1,4 @@
-# Exercícios do curso Python4Teens
+# Exercícios do curso Python4teens
 
 ## Git
 
